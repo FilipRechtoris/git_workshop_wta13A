@@ -24,9 +24,11 @@
 # Modely vývoja software-u 
 - Agilný prístup
 - Agilné techniky a metodológie
+- v ktorých fázach vývoja SW sa testuje, resp. aké druhy testov sa používajú v jednotlivých fázach
 
 # Techniky tvorby testov
 - analýza, sledovateľnosť, dizajn, očakávané výsledky, implementácia
+- techniky založené na špecifikácii (black box), techniky založené na štrukúre (white box), techniky založené na skúsenostiach (exploratory testing)
 
 # HTML, CSS, JavaScript 
 - HTML - hypertext markup language je popisný, nie programovací jazyk, ktorý definuje štruktúru stránky
@@ -35,12 +37,14 @@
 
 # Nástroje testovania 
 - kam zapísať testcase
+- všetko, čo nám uľahčí a zrýchli našu prácu
 
 # Testovanie API 
 - API - Application Programming Interface
 - REST API - Representational State Transfer
 - HTTP - proste internet
 - testovanie API cez nástroj Postman
+- Postman - veľmi užitočný nástroj na testovanie backendu
 
 # SQL 
 - Strukctured Query Language
@@ -50,3 +54,4 @@
 - na to, aby sme s ním vedeli pracovať potrebujeme hlavne ovládať key words, nepotrebujeme žiadne špeciálne editory,
 - naučili sme sa základy práce vo Visual Studio Code, základný syntax
 - teoretické základy automatizácie testov 
+- Robot Framework je veľmi používaný a žiadaný vo svete IT, mali by sme mu venovať viac času
