@@ -12,3 +12,6 @@ Moj Druhy test
 
 Test cislo 3
     Log    ahoj, svet
+
+Test cislo 4 
+    Log    ahoj Git    
